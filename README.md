@@ -1,13 +1,11 @@
-# Weather Data Exploration
+# Data Analyst
 
-### Project Overview
+### Education
+Data Science, Bachelors
 
-This data analysis project aims to provide exploratory insights about NOAA weather data. 
+### Work Experience
+Lab Technician
 
-### Data Sources
+### Projects
+**Global Air Pollution**
 
-Weather Data:
-
-### Tools
-
-- Excel
